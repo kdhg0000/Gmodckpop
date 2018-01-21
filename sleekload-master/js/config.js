@@ -9,9 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = 	"https://raw.githubusercontent.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/1.jpg",
-	"https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/2.jpg",
-	"https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/3.jpg", ;
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -53,7 +51,8 @@ var l_background = "backgrounds/videos/dancingstars.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"",
+	"https://cdn.rawgit.com/kdhg0000/Loading/9ff9d0c0/sleekload-master/backgrounds/images/47090_anime_scenery_anime_train_station_scenery.jpg",
+	"https://cdn.rawgit.com/kdhg0000/Loading/9ff9d0c0/sleekload-master/backgrounds/images/anime-1516550136345-7800.jpg",
 ];
 
 /*Random background images order?*/
@@ -101,8 +100,6 @@ var l_musicPlaylist = [
 	                                                {youtube:"emrt46SRyYs",name:"DAYBREAK FRONTLINE / Orangestar feat.IA"},
 														{youtube:"lYBfWxQRM_A",name:"Keith Kenniff - Goldengrove"},
 															{youtube:"2OdgUuH9bm0",name:"Maggie Lindemann - Pretty Girl"},
-];
-
 ];
 
 /*Random music order?*/
