@@ -9,7 +9,9 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "https://cdn.rawgit.com/kdhg0000/Gmodckpop/d2db0fd3/sleekload-master/backgrounds/images/ckpop.jpg";
+var l_serverImage = 	"https://raw.githubusercontent.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/1.jpg",
+	"https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/2.jpg",
+	"https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/3.jpg", ;
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -51,10 +53,7 @@ var l_background = "backgrounds/videos/dancingstars.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"https://raw.githubusercontent.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/1.jpg",
-	"https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/2.jpg",
-	"https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/3.jpg",
-     
+	"",
 ];
 
 /*Random background images order?*/
@@ -102,6 +101,8 @@ var l_musicPlaylist = [
 	                                                {youtube:"emrt46SRyYs",name:"DAYBREAK FRONTLINE / Orangestar feat.IA"},
 														{youtube:"lYBfWxQRM_A",name:"Keith Kenniff - Goldengrove"},
 															{youtube:"2OdgUuH9bm0",name:"Maggie Lindemann - Pretty Girl"},
+];
+
 ];
 
 /*Random music order?*/
